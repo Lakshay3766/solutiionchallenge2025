@@ -1,0 +1,161 @@
+2024-12-13 00:56:16,358 - INFO - Audio system initialized successfully
+2024-12-13 00:56:16,359 - INFO - Loaded 69 languages successfully
+2024-12-13 00:56:47,831 - INFO - Audio system initialized successfully
+2024-12-13 00:56:47,832 - INFO - Loaded 69 languages successfully
+2024-12-13 00:56:58,953 - INFO - Audio system initialized successfully
+2024-12-13 00:56:58,954 - INFO - Loaded 69 languages successfully
+2024-12-13 00:56:59,083 - INFO - Audio system initialized successfully
+2024-12-13 00:56:59,083 - INFO - Loaded 69 languages successfully
+2024-12-13 00:57:23,199 - INFO - Audio system initialized successfully
+2024-12-13 00:57:23,199 - INFO - Loaded 69 languages successfully
+2024-12-13 00:57:27,391 - INFO - Audio system initialized successfully
+2024-12-13 00:57:27,393 - INFO - Loaded 69 languages successfully
+2024-12-13 00:57:58,979 - INFO - Audio system initialized successfully
+2024-12-13 00:57:58,979 - INFO - Loaded 69 languages successfully
+2024-12-13 00:58:03,795 - INFO - Audio system initialized successfully
+2024-12-13 00:58:03,796 - INFO - Loaded 69 languages successfully
+2024-12-13 00:58:15,735 - INFO - Audio system initialized successfully
+2024-12-13 00:58:15,736 - INFO - Loaded 69 languages successfully
+2024-12-13 00:58:27,000 - INFO - Audio system initialized successfully
+2024-12-13 00:58:27,001 - INFO - Loaded 69 languages successfully
+2024-12-13 00:58:28,198 - INFO - Audio system initialized successfully
+2024-12-13 00:58:28,198 - INFO - Loaded 69 languages successfully
+2024-12-13 00:58:32,401 - INFO - Audio system initialized successfully
+2024-12-13 00:58:32,402 - INFO - Loaded 69 languages successfully
+2024-12-13 00:58:35,983 - INFO - Audio system initialized successfully
+2024-12-13 00:58:35,983 - INFO - Loaded 69 languages successfully
+2024-12-13 00:58:36,431 - INFO - Audio system initialized successfully
+2024-12-13 00:58:36,431 - INFO - Loaded 69 languages successfully
+2024-12-13 00:58:37,007 - INFO - Audio system initialized successfully
+2024-12-13 00:58:37,008 - INFO - Loaded 69 languages successfully
+2024-12-13 01:26:38,253 - INFO - Audio system initialized successfully
+2024-12-13 01:26:40,025 - ERROR - Failed to convert text to speech: No such file or directory: 'C:\Users\LAKSHA~1\AppData\Local\Temp\tmpmtd2a1mg.mp3'.
+2024-12-13 01:26:45,203 - ERROR - Failed to convert text to speech: No such file or directory: 'C:\Users\LAKSHA~1\AppData\Local\Temp\tmpqdw6uoy8.mp3'.
+2024-12-13 01:29:55,313 - INFO - Audio system initialized successfully
+2024-12-13 01:29:56,770 - ERROR - Failed to convert text to speech: No such file or directory: 'C:\Users\LAKSHA~1\AppData\Local\Temp\tmp59pnd65p.mp3'.
+2024-12-13 01:31:11,350 - INFO - Audio system initialized successfully
+2024-12-13 01:31:11,351 - ERROR - Text to speech error: 'TextToSpeech' object has no attribute 'speak_text'
+2024-12-13 01:40:04,776 - INFO - Audio system initialized successfully
+2024-12-13 01:40:06,337 - ERROR - Failed to convert text to speech: No such file or directory: 'C:\Users\LAKSHA~1\AppData\Local\Temp\tmpfy96o30u.mp3'.
+2024-12-13 01:51:53,329 - INFO - Audio system initialized successfully
+2024-12-13 01:51:53,332 - INFO - Loaded 69 languages successfully
+2024-12-13 01:52:53,952 - INFO - Audio system initialized successfully
+2024-12-13 01:52:53,954 - INFO - Loaded 69 languages successfully
+2024-12-13 01:53:08,766 - INFO - Audio system initialized successfully
+2024-12-13 01:53:08,766 - INFO - Loaded 69 languages successfully
+2024-12-13 01:53:19,276 - INFO - Audio system initialized successfully
+2024-12-13 01:53:19,280 - INFO - Loaded 69 languages successfully
+2024-12-13 01:53:38,699 - INFO - Audio system initialized successfully
+2024-12-13 01:53:38,702 - INFO - Loaded 69 languages successfully
+2024-12-13 01:57:40,462 - INFO - Audio system initialized successfully
+2024-12-13 01:57:40,464 - INFO - Loaded 69 languages successfully
+2024-12-13 01:57:52,986 - INFO - Audio system initialized successfully
+2024-12-13 01:57:52,991 - INFO - Loaded 69 languages successfully
+2024-12-13 02:01:59,803 - INFO - Audio system initialized successfully
+2024-12-13 02:01:59,805 - INFO - Loaded 69 languages successfully
+2024-12-13 02:01:59,991 - INFO - Audio system initialized successfully
+2024-12-13 02:01:59,992 - INFO - Loaded 69 languages successfully
+2024-12-13 02:02:16,831 - INFO - Audio system initialized successfully
+2024-12-13 02:02:16,832 - INFO - Loaded 69 languages successfully
+2024-12-13 02:02:42,311 - INFO - Audio system initialized successfully
+2024-12-13 02:02:42,311 - INFO - Loaded 69 languages successfully
+2024-12-13 02:02:45,406 - INFO - Audio system initialized successfully
+2024-12-13 02:02:45,408 - INFO - Loaded 69 languages successfully
+2024-12-13 02:12:27,122 - INFO - Audio system initialized successfully
+2024-12-13 02:12:27,123 - INFO - Loaded 69 languages successfully
+2024-12-13 02:12:45,931 - INFO - Audio system initialized successfully
+2024-12-13 02:12:45,933 - INFO - Loaded 69 languages successfully
+2024-12-13 02:12:46,153 - INFO - Audio system initialized successfully
+2024-12-13 02:12:46,154 - INFO - Loaded 69 languages successfully
+2024-12-13 02:12:52,305 - INFO - Audio system initialized successfully
+2024-12-13 02:12:52,306 - INFO - Loaded 69 languages successfully
+2024-12-13 02:13:09,538 - INFO - Audio system initialized successfully
+2024-12-13 02:13:09,539 - INFO - Loaded 69 languages successfully
+2024-12-13 02:13:25,866 - INFO - Audio system initialized successfully
+2024-12-13 02:13:25,867 - INFO - Loaded 69 languages successfully
+2024-12-13 02:13:27,220 - INFO - Audio system initialized successfully
+2024-12-13 02:13:27,221 - INFO - Loaded 69 languages successfully
+2024-12-13 02:13:34,319 - INFO - Audio system initialized successfully
+2024-12-13 02:13:34,320 - INFO - Loaded 69 languages successfully
+2024-12-13 02:13:56,775 - INFO - Audio system initialized successfully
+2024-12-13 02:13:56,776 - INFO - Loaded 69 languages successfully
+2024-12-13 02:13:57,010 - INFO - Audio system initialized successfully
+2024-12-13 02:13:57,011 - INFO - Loaded 69 languages successfully
+2024-12-13 02:14:01,001 - INFO - Audio system initialized successfully
+2024-12-13 02:14:01,002 - INFO - Loaded 69 languages successfully
+2024-12-13 02:15:09,580 - INFO - Audio system initialized successfully
+2024-12-13 02:15:09,581 - INFO - Loaded 69 languages successfully
+2024-12-13 02:15:09,949 - INFO - Audio system initialized successfully
+2024-12-13 02:15:09,949 - INFO - Loaded 69 languages successfully
+2024-12-13 02:15:28,974 - INFO - Audio system initialized successfully
+2024-12-13 02:15:28,974 - INFO - Loaded 69 languages successfully
+2024-12-13 02:21:54,453 - INFO - Audio system initialized successfully
+2024-12-13 02:21:54,465 - INFO - Loaded 69 languages successfully
+2024-12-13 02:22:01,294 - INFO - Audio system initialized successfully
+2024-12-13 02:22:01,295 - INFO - Loaded 69 languages successfully
+2024-12-13 02:24:46,711 - INFO - Audio system initialized successfully
+2024-12-13 02:24:46,712 - INFO - Loaded 69 languages successfully
+2024-12-13 02:24:47,059 - INFO - Audio system initialized successfully
+2024-12-13 02:24:47,059 - INFO - Loaded 69 languages successfully
+2024-12-13 02:28:41,245 - INFO - Audio system initialized successfully
+2024-12-13 02:28:41,246 - INFO - Loaded 69 languages successfully
+2024-12-13 02:28:41,473 - INFO - Audio system initialized successfully
+2024-12-13 02:28:41,474 - INFO - Loaded 69 languages successfully
+2024-12-13 02:33:06,678 - INFO - Audio system initialized successfully
+2024-12-13 02:33:06,678 - INFO - Loaded 69 languages successfully
+2024-12-13 02:33:14,321 - INFO - Audio system initialized successfully
+2024-12-13 02:33:14,325 - INFO - Loaded 69 languages successfully
+2024-12-13 02:33:14,537 - INFO - Audio system initialized successfully
+2024-12-13 02:33:14,538 - INFO - Loaded 69 languages successfully
+2024-12-13 02:33:14,558 - WARNING - 'zh-cn' has been deprecated, falling back to 'zh-CN'. This fallback will be removed in a future version.
+2024-12-13 02:33:58,265 - INFO - Audio system initialized successfully
+2024-12-13 02:33:58,266 - INFO - Loaded 69 languages successfully
+2024-12-13 02:41:20,798 - INFO - Audio system initialized successfully
+2024-12-13 02:41:20,804 - INFO - Loaded 69 languages successfully
+2024-12-13 09:19:40,000 - INFO - Audio system initialized successfully
+2024-12-13 09:19:40,426 - ERROR - Failed to convert text to speech: No such file or directory: 'C:\Users\LAKSHA~1\AppData\Local\Temp\tmprzm_bgux.mp3'.
+2024-12-13 09:22:33,871 - ERROR - Failed to convert text to speech: No such file or directory: 'C:\Users\LAKSHA~1\AppData\Local\Temp\tmprrtcm_yk.mp3'.
+2024-12-13 09:25:53,830 - INFO - Audio system initialized successfully
+2024-12-13 09:25:55,153 - INFO - Text successfully converted to speech
+2024-12-13 09:26:00,400 - INFO - Text successfully converted to speech
+2024-12-13 09:27:30,540 - INFO - Text successfully converted to speech
+2024-12-13 09:27:44,453 - INFO - Text successfully converted to speech
+2024-12-13 09:28:42,278 - INFO - Text successfully converted to speech
+2024-12-13 09:32:22,351 - INFO - Audio system initialized successfully
+2024-12-13 09:32:22,351 - INFO - Loaded 69 languages successfully
+2024-12-13 09:34:17,063 - INFO - Audio system initialized successfully
+2024-12-13 09:34:18,409 - INFO - Text successfully converted to speech
+2024-12-13 11:40:19,453 - INFO - Audio system initialized successfully
+2024-12-13 11:40:20,730 - INFO - Text successfully converted to speech
+2024-12-13 11:40:24,607 - INFO - Text successfully converted to speech
+2024-12-13 11:40:30,764 - INFO - Text successfully converted to speech
+2024-12-13 11:40:37,260 - INFO - Text successfully converted to speech
+2024-12-13 11:40:40,306 - INFO - Text successfully converted to speech
+2024-12-13 11:41:02,020 - INFO - Text successfully converted to speech
+2024-12-13 11:41:19,164 - INFO - Text successfully converted to speech
+2024-12-13 11:41:27,369 - INFO - Text successfully converted to speech
+2024-12-13 11:41:36,509 - INFO - Text successfully converted to speech
+2024-12-13 11:41:51,865 - INFO - Text successfully converted to speech
+2024-12-13 11:44:39,090 - INFO - Text successfully converted to speech
+2024-12-13 11:44:45,772 - INFO - Text successfully converted to speech
+2024-12-13 12:59:28,075 - INFO - Text successfully converted to speech
+2024-12-13 13:00:44,585 - INFO - Text successfully converted to speech
+2024-12-13 13:38:55,789 - INFO - Audio system initialized successfully
+2024-12-13 13:38:59,548 - INFO - Text successfully converted to speech
+2024-12-13 13:39:55,025 - INFO - Text successfully converted to speech
+2024-12-13 13:40:05,262 - INFO - Text successfully converted to speech
+2024-12-13 14:09:43,984 - INFO - Audio system initialized successfully
+2024-12-13 14:09:46,225 - INFO - Text successfully converted to speech
+2024-12-13 14:12:20,738 - INFO - Text successfully converted to speech
+2024-12-13 14:12:24,122 - INFO - Text successfully converted to speech
+2024-12-13 14:12:27,212 - INFO - Text successfully converted to speech
+2024-12-13 14:12:31,901 - INFO - Text successfully converted to speech
+2024-12-13 14:12:35,394 - INFO - Text successfully converted to speech
+2024-12-13 14:13:00,244 - INFO - Text successfully converted to speech
+2024-12-13 15:36:06,944 - INFO - Audio system initialized successfully
+2024-12-13 15:36:08,657 - INFO - Text successfully converted to speech
+2024-12-13 15:36:20,446 - INFO - Text successfully converted to speech
+2024-12-13 15:36:36,410 - INFO - Text successfully converted to speech
+2024-12-13 16:01:16,271 - INFO - Audio system initialized successfully
+2024-12-13 16:01:18,589 - INFO - Text successfully converted to speech
+2024-12-13 16:15:12,768 - INFO - Text successfully converted to speech
